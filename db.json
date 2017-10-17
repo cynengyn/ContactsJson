@@ -1,15 +1,16 @@
-[
-  {
+{
+  "Fiao": [
+    {
     "code": 1,
     "firstName": "Leanne",
     "lastName": "Graham",
-    "phone": "1-770-736-8031 x56442"
+    "phone": "1-770-736-8031"
   },
   {
     "code": 2,
     "firstName": "Ervin",
     "lastName": "Howell",
-    "phone": "010-692-6593 x09125"
+    "phone": "010-692-6593"
   },
   {
     "code": 3,
@@ -21,7 +22,7 @@
     "code": 4,
     "firstName": "Patricia",
     "lastName": "Lebsack",
-    "phone": "493-170-9623 x156"
+    "phone": "493-170-9623"
   },
   {
     "code": 5,
@@ -33,25 +34,25 @@
     "code": 6,
     "firstName": "Dennis",
     "lastName": "Schulist",
-    "phone": "1-477-935-8478 x6430"
+    "phone": "1-477-935-8478"
   },
   {
     "code": 7,
     "firstName": "Kurtis",
     "lastName": "Weissnat",
-    "phone": "210.067.6132"
+    "phone": "210-067-6132"
   },
   {
     "code": 8,
     "firstName": "Nicholas",
     "lastName": "Runolfsdottir",
-    "phone": "586.493.6943 x140"
+    "phone": "586-493-6943"
   },
   {
     "code": 9,
     "firstName": "Glenna",
     "lastName": "Reichert",
-    "phone": "(775)976-6794 x41206"
+    "phone": "(775)976-6794"
   },
   {
     "code": 10,
@@ -59,4 +60,5 @@
     "lastName": "DuBuque",
     "phone": "024-648-3804"
   }
-]
+  ]
+}
